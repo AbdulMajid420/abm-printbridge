@@ -252,15 +252,17 @@ grid.Children.Add(host);
 
 ### For Licensing Inquiries
 
-- **Sales & Partnerships:** [Contact Us](#contact)
+- **Sales & Partnerships:** [Contact Us](#contact-information)
 - **Evaluation Licenses:** Available for testing and proof-of-concept deployments
 - **Deployment Pricing:** Tailored to your scale and requirements
 
 ### Contact Information
 
+- **Email (Support):** abdulmajid95971@gmail.com
 - **Website:** www.abmtechnologies.com (coming soon)
-- **Email:** support@abmtechnologies.com
-- **Phone:** Available upon request
+- **Business Email:** Will be added at official launch
+
+> **Note:** Currently using personal email for support. Business email will be configured upon official commercial launch.
 
 ---
 
