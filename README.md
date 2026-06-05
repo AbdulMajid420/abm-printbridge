@@ -8,7 +8,7 @@
 
 ## Overview
 
-**ABM PrintBridge** transforms Windows printing from a fragile, driver-dependent process into a **reliable, unified platform**. A single lightweight engine manages all printers, handles job queues, manages recovery, and provides complete visibility into every print job.
+**ABM PrintBridge** transforms Windows printing from a fragile, driver-dependent process into a **reliable, unified platform**. A single lightweight engine manages all printers, handles job queues, and provides complete visibility into printing operations.
 
 Any application — POS, ERP, healthcare, retail, or web — connects with **one line of code** and gains enterprise-grade printing reliability.
 
@@ -248,13 +248,37 @@ grid.Children.Add(host);
 
 ## Licensing & Support
 
-**ABM PrintBridge** is commercial software. Usage requires a valid license agreement with ABM Technologies.
+ABM PrintBridge is available under **two licensing models**:
+
+### 📖 Open Source Edition (MIT License)
+
+The core engine and SDK are available under the **MIT License** for open-source, educational, and non-commercial use.
+
+- **Free to use, modify, and distribute** under MIT terms
+- **Core printing functionality** included
+- **Community support** available
+- **Perfect for:** Developers, students, open-source projects, and proof-of-concept deployments
+
+**License File:** [LICENSE](LICENSE)
+
+### 🏢 Enterprise Edition (Commercial License)
+
+For commercial deployments, production use, and advanced features:
+
+- **Commercial printing features** (advanced routing, load balancing, multi-location support)
+- **Priority support** and SLA guarantees
+- **Deployment assistance** and custom integration
+- **Professional licensing** with compliance tracking
+- **For:** Businesses, ISVs, enterprises deploying to production
+
+---
 
 ### For Licensing Inquiries
 
+- **Open Source:** Use under MIT License (see LICENSE file)
+- **Commercial / Enterprise:** Contact us for evaluation and deployment licenses
 - **Sales & Partnerships:** [Contact Us](#contact-information)
 - **Evaluation Licenses:** Available for testing and proof-of-concept deployments
-- **Deployment Pricing:** Tailored to your scale and requirements
 
 ### Contact Information
 
@@ -270,7 +294,7 @@ grid.Children.Add(host);
 
 ### Can I use PrintBridge for free?
 
-PrintBridge is commercial software. We offer evaluation licenses for testing and proof-of-concept deployments. Contact us for pricing tailored to your deployment scale.
+**Yes!** The open-source edition is available under the MIT License for free. For commercial deployments and enterprise features, we offer commercial licenses. Contact us for pricing tailored to your scale.
 
 ### Does it work without internet?
 
@@ -328,4 +352,4 @@ We welcome contributions from the community. Please read our [CONTRIBUTING.md](C
 
 **Version:** 1.0.0 (Pre-Release)  
 **Last Updated:** June 2026  
-**License:** Commercial (See LICENSE file)
+**License:** MIT (Open Source) / Commercial (Enterprise)
